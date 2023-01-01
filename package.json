@@ -22,6 +22,6 @@
     "styled-components": "^4.3.2"
   },
   "devDependencies": {
-    "parcel": "^1.12.3"
+    "parcel": "^2.8.2"
   }
 }
